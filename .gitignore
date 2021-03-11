@@ -1,0 +1,6 @@
+stm32f103_fw/.cproject
+stm32f103_fw/.project
+stm32f103_fw/.settings/language.settings.xml
+stm32f103_fw/Debug/makefile
+stm32f103_fw/Debug/objects.list
+stm32f103_fw/Debug/objects.mk

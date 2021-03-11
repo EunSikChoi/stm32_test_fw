@@ -1,0 +1,5 @@
+rtc.c:15:6:rtcInit	16	static
+rtc.c:34:6:rtcbackupRegWrite	16	static
+rtc.c:39:10:rtcbackupRegRead	16	static
+rtc.c:48:6:HAL_RTC_MspInit	24	static
+rtc.c:67:6:HAL_RTC_MspDeInit	16	static

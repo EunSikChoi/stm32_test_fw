@@ -1,0 +1,2 @@
+led.c:19:6:ledInit	32	static
+led.c:58:6:cliLed	32	static

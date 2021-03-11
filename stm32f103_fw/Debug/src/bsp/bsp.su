@@ -1,0 +1,6 @@
+bsp.c:14:6:bspInit	16	static
+bsp.c:25:6:delay	16	static
+bsp.c:32:10:millis	8	static
+bsp.c:38:5:__io_putchar	16	static
+bsp.c:47:6:SystemClock_Config	88	static
+bsp.c:98:6:Error_Handler	4	static
