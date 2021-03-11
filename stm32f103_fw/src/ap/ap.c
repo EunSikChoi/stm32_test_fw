@@ -33,7 +33,7 @@ void apMain(void)
 
     if(resetGetCount() >= 2)
     {
-      led_blink_time = 200;
+      led_blink_time = 4000; // 신규 업데이트 확인용
     }
 
 	while(1)
